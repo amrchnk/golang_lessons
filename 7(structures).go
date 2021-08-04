@@ -2,25 +2,38 @@ package main
 
 import "fmt"
 
-func main(){
-    type employee struct{
+type employee struct{
         name string
         sex string
         age int
         salary int
-    }
-    emp1:=employee{
-        name:"Anek",
-        sex:"F",
-        age:20,
-        salary:100000000,
-    }
-    emp2:=employee{
-            name:"Tem",
-            sex:"M",
-            age:22,
-            salary:320000,
-        }
-    fmt.Printf("%+v\n",emp1)
-    fmt.Printf("%+v\n",emp2)
 }
+
+//конструктор
+func newEmployee(name,sex string, age,salary int)employee{
+    return employee{
+        name:name,
+        sex:sex,
+        age:age,
+        salary:salary,
+    }
+}
+
+func (e employee) getInfo() string{
+    return fmt.Sprintf("Сотрудник: %s\nВозраст: %d\nЗарплата: %d\n",e.name, e.age, e.salary)
+}
+
+func (e *employee) setName(name string){
+    e.name=name
+}
+
+func main(){
+    emp1:=newEmployee("Anek","F",20,100000000)
+    emp2:=newEmployee("Tem","M",22,320000)
+
+    emp1.setName("Kira")
+
+    fmt.Printf("%+v\n",emp1.getInfo())
+    fmt.Printf("%+v\n",emp2.getInfo())
+}
+
