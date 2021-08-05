@@ -1,3 +1,3 @@
-module employees
+module figures
 
 go 1.16
