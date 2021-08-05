@@ -23,6 +23,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Аня Мирченко\Documents\GitHub\golang_lessons\11(modules)" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1627985026850</updated>
       <workItem from="1627985028414" duration="21035000" />
-      <workItem from="1628072059666" duration="1130000" />
+      <workItem from="1628072059666" duration="10788000" />
+      <workItem from="1628152840165" duration="2359000" />
     </task>
     <servers />
   </component>
