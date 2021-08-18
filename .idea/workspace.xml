@@ -1,12 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de86129f-6c4d-4638-bab5-00d842d15508" name="Default Changelist" comment="" />
+    <list default="true" id="de86129f-6c4d-4638-bab5-00d842d15508" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/golang_lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/golang_lessons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1(basic).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/1(basic).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10(void_interfaces).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/10(void_interfaces).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11modules/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/11modules/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11modules/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/11modules/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11modules/shape/shape.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/11modules/shape/shape.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11modules/storage/storage.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/11modules/storage/storage.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12(gorutines).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/12(gorutines).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/12_1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_2.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/12_2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2(functions).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/2(functions).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3(operators_bags).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/3(operators_bags).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4(pointers).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/4(pointers).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5(arrays_and_slices).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/5(arrays_and_slices).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6(maps).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/6(maps).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7(structures).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/7(structures).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8(custom).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/8(custom).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9(interfaces).go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/9(interfaces).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/hw5.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/HTTP/hw5.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/HTTP/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/hw1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/hw2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/hw3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/hw4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutex.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/mutex.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/waitgroup.go" beforeDir="false" afterPath="$PROJECT_DIR$/zhashkevich_book/waitgroup.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -16,15 +55,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Аня Мирченко\Documents\GitHub\golang_lessons\coursera_part1\test" />
+      <recent name="C:\Users\Аня Мирченко\Documents\GitHub\golang_lessons\zhashkevich_book" />
       <recent name="C:\Users\Аня Мирченко\Documents\GitHub\golang_lessons\11(modules)" />
     </key>
   </component>
@@ -38,11 +84,22 @@
       <updated>1627985026850</updated>
       <workItem from="1627985028414" duration="21035000" />
       <workItem from="1628072059666" duration="10788000" />
-      <workItem from="1628152840165" duration="23515000" />
+      <workItem from="1628152840165" duration="23866000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
